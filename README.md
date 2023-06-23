@@ -41,6 +41,13 @@ SQLite terminology:
 | `WHERE` x > y | to compare two values in SQL.|
 
  Order of Code Execution by SQL: `FROM` `WHERE` `SELECT` `LIMIT`
+ 
+| Command | Operator|
+| ------- | ---------- |
+| `=` |	 Equal to |
+| `>=` |	Greater than or equal to |
+| `<=` |	Less than or equal to |
+| `<>`	| Not equal to |
 
 ### Sources
 
