@@ -1,4 +1,4 @@
-## R-Learning-Path-from-Dataquest
+## R-Learning-Path
 Documenting my R Learning Journey from Dataquest
 
 
