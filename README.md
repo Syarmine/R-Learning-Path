@@ -38,7 +38,13 @@ SQLite terminology:
 | `UPPER' | which converts all characters in a given text string to **uppercase** |
 | `LOWER` | which converts all characters in a given text string to **lowercase** |
 | `Concatenate operator` |  to join two strings into one. |
-| `WHERE` x > y | to compare two values in SQL.|
+| `WHERE` x > y | to compare two values in SQL. or filter values |
+| `BETWEEN` | checks whether the value is within the specified range. |
+| `AND` | operator displays a record if all the conditions separated by AND are TRUE. |
+| `OR` |  operator displays a record if any of the conditions separated by OR is TRUE.| 
+| `IN` | The IN operator checks if the value is equal to any of the values listed within the parentheses |
+| `IS` | Instead of using mathematical comparators like = or <>, use the `IS` or `IS NOT` operators |
+
 
  Order of Code Execution by SQL: `FROM` `WHERE` `SELECT` `LIMIT`
  
