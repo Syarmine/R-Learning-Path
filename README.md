@@ -40,13 +40,18 @@ SQLite terminology:
 | `Concatenate operator` |  to join two strings into one. |
 | `WHERE` x > y | to compare two values in SQL. or filter values |
 | `BETWEEN` | checks whether the value is within the specified range. |
-| `AND` | operator displays a record if all the conditions separated by AND are TRUE. |
-| `OR` |  operator displays a record if any of the conditions separated by OR is TRUE.| 
+| `AND` | operator displays a record if all the conditions separated by `AND` are TRUE. |
+| `OR` |  operator displays a record if any of the conditions separated by `OR` is TRUE.| 
 | `IN` | The IN operator checks if the value is equal to any of the values listed within the parentheses |
 | `IS` | Instead of using mathematical comparators like = or <>, use the `IS` or `IS NOT` operators |
+| `SELECT DISTINCT` | The statement is used to return only distinct (different) values. |
+| `LIKE` | this operator in conjunction with `WHERE`can be used to search for a specified pattern in a text column. |
+| `_` | 	Finds any values that are at least `_` characters in length |
+| `ORDER BY` | The ORDER BY keyword is used to sort the result-set in ascending or descending order. |
+| `CASE` | The CASE command is used is to create different output based on conditions. `CASES` uses `WHEN` and `THEN` statements to specify conditions that must be met in order to classify a record into a particular group |
 
 
- Order of Code Execution by SQL: `FROM` `WHERE` `SELECT` `LIMIT`
+ Order of Code Execution by SQL: `FROM` `WHERE` `SELECT` `ORDER BY` `LIMIT`
  
 | Command | Operator|
 | ------- | ---------- |
@@ -59,3 +64,5 @@ SQLite terminology:
 
 - [Dataquest](https://app.dataquest.io/)
 - [SQLite](https://www.sqlite.org/pragma.html#pragma_table_info:~:text=PRAGMA%20schema.table_info(table%2Dname)%3B)
+- [W3 SQL Tutorial](https://www.w3schools.com/sql/default.asp)
+- [SQL Style Guide](https://www.sqlstyle.guide/)
