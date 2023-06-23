@@ -29,6 +29,7 @@ SQLite terminology:
 | _Real_ | for floats or decimal numbers |
 | _Text_ or string | for text or strings data types. There is no storage class for date, the db stores date as texts | 
 
-### Other Sources
+### Sources
 
+- [Dataquest](https://app.dataquest.io/)
 - [SQLite](https://www.sqlite.org/pragma.html#pragma_table_info:~:text=PRAGMA%20schema.table_info(table%2Dname)%3B)
