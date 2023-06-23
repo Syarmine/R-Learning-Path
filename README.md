@@ -47,8 +47,8 @@ SQLite terminology:
 | `SELECT DISTINCT` | The statement is used to return only distinct (different) values. |
 | `LIKE` | this operator in conjunction with `WHERE`can be used to search for a specified pattern in a text column. |
 | `_` | 	Finds any values that are at least `_` characters in length |
-| `ORDER BY` | The ORDER BY keyword is used to sort the result-set in ascending or descending order. |
-| `CASE` | The CASE command is used is to create different output based on conditions. `CASES` uses `WHEN` and `THEN` statements to specify conditions that must be met in order to classify a record into a particular group |
+| `ORDER BY` | The `ORDER BY` keyword is used to sort the result-set in ascending `ASC` or descending `DESC` order. |
+| `CASE` | The `CASE` command is used is to create different output based on conditions. `CASES` uses `WHEN` and `THEN` statements to specify conditions that must be met in order to classify a record into a particular group |
 
 
  Order of Code Execution by SQL: `FROM` `WHERE` `SELECT` `ORDER BY` `LIMIT`
