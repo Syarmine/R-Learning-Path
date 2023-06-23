@@ -35,6 +35,9 @@ SQLite terminology:
 | `Column A * X` | Operating Arithmetic or Numeric Columns for a calculated field, may combine `AS` to rename output column |
 | `CAST(column/value AS new_datatype)` | Integer division value to datatype needed i.e `SELECT CAST(3 AS REAL) / 2 AS three_div_two` | 
 | `ROUND(value, decimal_places)` | which rounds numerical values to a specified number of decimal places |
+| `UPPER' | which converts all characters in a given text string to **uppercase** |
+| `LOWER` | which converts all characters in a given text string to **lowercase** |
+| ` || ` |  concatenate operator (||) to join two strings into one. |
 
 ### Sources
 
