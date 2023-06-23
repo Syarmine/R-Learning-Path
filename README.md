@@ -31,4 +31,4 @@ SQLite terminology:
 
 ### Other Sources
 
-- (SQLite)(https://www.sqlite.org/pragma.html#pragma_table_info:~:text=PRAGMA%20schema.table_info(table%2Dname)%3B)
+- [SQLite](https://www.sqlite.org/pragma.html#pragma_table_info:~:text=PRAGMA%20schema.table_info(table%2Dname)%3B)
