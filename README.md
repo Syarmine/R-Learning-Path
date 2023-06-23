@@ -37,7 +37,7 @@ SQLite terminology:
 | `ROUND(value, decimal_places)` | which rounds numerical values to a specified number of decimal places |
 | `UPPER' | which converts all characters in a given text string to **uppercase** |
 | `LOWER` | which converts all characters in a given text string to **lowercase** |
-| `"| |"` |  concatenate operator (||) to join two strings into one. |
+| ` | | ` |  concatenate operator (||) to join two strings into one. |
 
 ### Sources
 
