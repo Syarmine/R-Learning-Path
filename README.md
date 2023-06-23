@@ -32,6 +32,7 @@ SQLite terminology:
 | Command | Description|
 | ------- | ---------- |
 | `PRAGMA table_info()`|  retrieves metadata, which is information about a table. |
+| `Column A * X` | Operating on Numeric Columns for a calculated field |
 
 ### Sources
 
