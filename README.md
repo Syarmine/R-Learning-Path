@@ -33,7 +33,7 @@ SQLite terminology:
 | ------- | ---------- |
 | `PRAGMA table_info()`|  retrieves metadata, which is information about a table. |
 | `Column A * X` | Operating Arithmetic or Numeric Columns for a calculated field, may combine `AS` to rename output column |
-| `CAST(column/value AS new_datatype)` | Integer division value to datatype needed i.e SELECT CAST(3 AS REAL) / 2 AS three_div_two | 
+| `CAST(column/value AS new_datatype)` | Integer division value to datatype needed i.e `SELECT CAST(3 AS REAL) / 2 AS three_div_two` | 
 
 ### Sources
 
