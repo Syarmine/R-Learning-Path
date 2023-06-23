@@ -38,6 +38,9 @@ SQLite terminology:
 | `UPPER' | which converts all characters in a given text string to **uppercase** |
 | `LOWER` | which converts all characters in a given text string to **lowercase** |
 | `Concatenate operator` |  to join two strings into one. |
+| `WHERE` x > y | to compare two values in SQL.|
+
+ Order of Code Execution by SQL: `FROM` `WHERE` `SELECT` `LIMIT`
 
 ### Sources
 
