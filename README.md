@@ -1,5 +1,5 @@
 ## R-Learning-Path
-Documenting my R Learning Journey from Dataquest
+Documenting my R Learning Journey from Dataquest. This documentation focus on use of SQL in R
 
 
 ### Working with Data Sources using SQL (SQLite)
