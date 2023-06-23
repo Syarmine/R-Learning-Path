@@ -27,7 +27,11 @@ SQLite terminology:
 | ------- | -------|
 | _Integer_ | integer numbers, like the values in the quantity field |
 | _Real_ | for floats or decimal numbers |
-| _Text_ or string | for text or strings data types. There is no storage class for date, the db stores date as texts | 
+| _Text_ or string | for text or strings data types. There is no storage class for date, the db stores date as texts |  
+
+| Command | Description|
+| ------- | ---------- |
+| `PRAGMA table_info()`|  retrieves metadata, which is information about a table. |
 
 ### Sources
 
