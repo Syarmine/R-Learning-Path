@@ -15,3 +15,4 @@ Each table in a database may be connected to other tables through fields that re
 | ; | to end the syntax |
 | `FROM` | where to read data from |
 | `LIMIT` | returns the number of rows returned |
+| `AS` | will let you temporarily rename or alias these fields, Aliasing fields does not permanently change their name in the database. Aliases only exist for as long as the query does.  |
